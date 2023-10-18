@@ -1,0 +1,17 @@
+
+.add-button {
+    background-color: #f9d8f5; 
+    color: #1b1717; 
+    padding:30px; 
+    border-radius: 8px; 
+    border-width: 0; 
+    font-size: 18px; 
+  }
+  .subtract-button {
+    background-color: #f9d8f5; 
+    color: #080808; 
+    padding:30px; 
+    border-radius: 8px; 
+    border-width: 0; 
+    font-size: 18px; 
+  }
