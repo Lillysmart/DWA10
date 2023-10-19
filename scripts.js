@@ -14,15 +14,13 @@ const resetButton = document.querySelector('[data-key="reset"]')
  */
 const resetHandler=()=>{
  
-  const newValue=  parseInt(number.value)- parseInt(number.value)
-  number.value=newValue 
+  //const newValue=  parseInt(number.value)- parseInt(number.value)
+  number.value= 0 
    alert(" the counter has been reset")
-
 
 }
 resetButton.addEventListener("click", resetHandler)
 
-const container = document.querySelector('.alert-toast');
 
 
 //Say this second
